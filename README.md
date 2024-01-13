@@ -1,6 +1,6 @@
 ### **Objective**
 
-Your task is to harness the power of Power BI to transform these datasets into a compelling narrative. This will involve thorough data cleaning, effective data modeling, and strategic use of DAX for in-depth analytics. Your ultimate goal is to create an interactive, user-friendly dashboard that vividly displays your findings, providing actionable insights
+Created user-friendly dashboard using Power BI that vividly displays useful findings, providing actionable insights for Ecommerce.
 
 ### **Data Source:**
 
