@@ -32,10 +32,10 @@ The "EcommerceDataset2.xlsx" file contains the following columns:
 
 ### *Useful insights*
 
-## Closing shirts have been the highest selling product.
+#### Closing shirts have been the highest selling product.
 
-## Shipping costs tend to be relatively High.
+#### Shipping costs tend to be relatively High.
 
-## Premium members tend to spend more than others.
+#### Premium members tend to spend more than others.
 
-## Sales experienced significant growth in the first year but then witnessed a substantial decline.
+#### Sales experienced significant growth in the first year but then witnessed a substantial decline.
