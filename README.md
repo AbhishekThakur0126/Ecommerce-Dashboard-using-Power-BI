@@ -30,3 +30,9 @@ The "EcommerceDataset2.xlsx" file contains the following columns:
 7. **TotalSpent**: Total amount spent by the customer.
 8. **Customer Communication Log:** Detailed communication logs for each customer.
 
+#Useful insights
+
+##Closing shirts have been the highest selling product
+##Shipping costs tend to be relatively High
+##Premium members tend to spend more than others
+##Sales experienced significant growth in the first year but then witnessed a substantial decline
